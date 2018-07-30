@@ -1,0 +1,3 @@
+# Java-Work-Email-Generator
+This application generates a work email address for the user. The user will insert their name, place of employment, and position into the application then it will output thier created email address. A random password is also generated, with giving the user the option to keep the password or change it to one of their liking. An authentic alternative email address is needed as well.
+Created by Jamison Nixon
