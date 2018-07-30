@@ -1,16 +1,4 @@
 package realWorldChallenges;
-/*
- * Project 1: Email Application
- * Scenario: You are an IT Support Administrator Specialist and are charged with the task of creating email accounts of new hires.
- * 
- * Your application should do the following: 
- *      ~ Generate an email with the following syntax: firstName.lastName@department.company.com
- *      ~ Determine the department (sales, development, accounting), if none leave blank
- *      ~ Have set methods to change the password, set the mailbox capacity, and define an alternative email address
- *      ~ Have get methods to display the name, email, and mailbox capacity 
- */
-
-//NEED TO ADD NO WHITESPACES TO NEW-EMAIL, NEW-PASSWORD
 
 import java.util.Scanner;
 import java.util.regex.Matcher;
